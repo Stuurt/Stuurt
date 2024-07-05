@@ -4,9 +4,9 @@
 
 ***
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java, Javascript e Typescript
-- 🔎 Buscando ampliar meu conhecimento
+- 🎓 Studying systems analysis and development;
+- 🌱 Studying Java, Javascript e Typescript;
+- 🔎 Looking to expand my knowledge.
 
 ***
 
