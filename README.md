@@ -6,7 +6,7 @@
 
 - 🎓 Studying systems analysis and development;
 - 🌱 Studying Java, Javascript e Typescript;
-- 🔎 Looking to expand my knowledge.
+- 🔎 Looking for to expand my knowledge.
 
 ***
 
